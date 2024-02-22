@@ -32,7 +32,3 @@ This is a project from [The Complete 2023 Web Development Bootcamp](https://www.
 Live Link: [Link](https://)
 
 Course: [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-
-## Updates
-
-### First Commit
