@@ -1,34 +1,27 @@
 # React app
 
-This is a project from [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+This project was built to learn the basics of react, made using React, and styled using CSS.
 
 ## Table of contents
 
 - [Overview](#overview)
+  - [Preview](#preview)
   - [Built with](#built-with)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [Updates](#updates)
-  - [First Commit](#first-commit)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-
+  - [Links](#useful-links)
  
 
 ## Overview
 
+### Preview
+
+![Desktop Preview](/assets/Desktop-Preview.png)
+
 ### Built with
 
-  - Html
-  - Css
   - React
 
-### Screenshot
+### Useful Links
 
-![ProjectScreenshot1440px](./link.jpg)
-
-### Links
-
-Live Link: [Link](https://)
+Live Link: [Live website](https://keeperapp-project.netlify.app/)
 
 Course: [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
